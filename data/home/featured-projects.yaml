@@ -1,0 +1,36 @@
+id: featured-projects
+type: projects
+icon: code
+title: Featured Projects
+items:
+  - title: PEViewer
+    role: tools
+    description: 一个简易的CLI WindowsPE字段查询工具
+    tech:
+      - C++
+      - WindowsPE
+      - Reverse
+    accent: purple
+    type: Personal
+    stars: 0k
+    links:
+      - label: Code
+        url: https://github.com/Audience07/PEViewer
+        icon: github
+      #- label: Live Demo
+      #  url: https://demo.example.com/nexus-api-gateway
+      #  icon: external
+  - title: NoALSR
+    role: Tools
+    description: 一个用于关闭程序随机地址加载(ALSR)的CLI工具
+    tech:
+      - C++
+      - WIndowsPE
+      - Reverse
+    accent: cyan
+    type: Personal
+    stars: 0k
+    links:
+      - label: Code
+        url: https://github.com/Audience07/NoASLR
+        icon: github

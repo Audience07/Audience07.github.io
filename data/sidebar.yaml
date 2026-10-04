@@ -1,0 +1,56 @@
+profile:
+  name: "Audience07"
+  title: CS Student
+  avatar: "Images/Audience07.jpg"
+  # description: Building scalable systems. Obsessed with clean code and modern web
+  #   architectures.
+  description: 再看就把你吃掉
+  status:
+    label: Status
+    value: Open to Senior Roles
+    preference_label: Pref
+    preference: 100% Remote / Async
+  links:
+    #- icon: website
+    #  label: nerdy.hugo-themes.com
+    #  url: https://nerdy.hugo-themes.com
+    - icon: github
+      label: github.com/Audience07
+      url: https://github.com/Audience07
+    #- icon: linkedin
+    #  label: linkedin.com/in/gopher
+    #  url: https://linkedin.com/in/gopher
+    #- icon: x
+    #  label: "@gopher"
+    #  url: https://x.com/gopher
+    #- icon: mail
+    #  label: hello@Audience07
+    #  url: mailto:2894410545@qq.com
+
+sections:
+  - id: profile-stats
+    type: stats
+    title: Profile Stats
+    items:
+      - label: Experience
+        value: 2+ yrs
+        accent: emerald
+      - label: Focus
+        value: Scalable Backends
+        accent: cyan
+      - label: Debugging
+        value: Persistent
+        accent: amber
+      - label: Architecture
+        value: Pragmatic
+        accent: purple
+  - id: core-stack
+    type: tags
+    title: Core Stack
+    items:
+      - C++
+      - ImGui
+      - WindowsPE
+      - Linux
+      - Assambly
+      - Python
